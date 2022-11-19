@@ -2,3 +2,12 @@
 2222
 33333
 
+login 
+
+register
+
+logout
+
+add
+
+reset
