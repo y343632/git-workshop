@@ -1,5 +1,5 @@
 
-##<font face="Noto Sans Traditional Chinese">大腦解鎖觀後心得
+###<font face="Noto Sans Traditional Chinese">大腦解鎖觀後心得
 #####<font color=HotPink>6招改造大腦!</font>
 
 ####1-1 大腦會不斷連結、變化
