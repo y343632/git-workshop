@@ -26,5 +26,3 @@
 
 *東大特訓班漫畫版連結*
 https://www.manhuaren.com/manhua-longying-dongdatexunban/
-
-
