@@ -5,4 +5,4 @@ function sum(n){
     }
     return sum;
 }
-console.log(sum(9));
+console.log(sum(5));
